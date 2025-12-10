@@ -16,3 +16,12 @@
 <li>FrontEnd: Dasar-dasar pembangunan struktur dan logika antarmuka web. Menggunakan HTML, CSS, JS.</li>
 <li>Deployment: Platform hosting yang digunakan untuk penerapan cepat dan integrasi Git. Menggunakan Vercel.</li>
 </ul>
+<br>
+<h2>🤝 Kontak</h2>
+<p>Jika Anda memiliki pertanyaan, saran, atau peluang kerja sama, jangan ragu untuk menghubungi saya.</p>
+<ul>
+<li>Nama: Dava Nalendra</li>
+<li>Email: davanalendra2@gmail.com</li>
+</ul>
+<br>
+<p>Link Website: https://portofolio-five-black-77.vercel.app/</p>
