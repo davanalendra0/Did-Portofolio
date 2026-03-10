@@ -24,4 +24,4 @@
 <li>Email: davanalendra2@gmail.com</li>
 </ul>
 <br>
-<p>Link Website: https://portofolio-five-black-77.vercel.app/</p>
+<p>Link Website: https://portofolio-did.vercel.app/</p>
